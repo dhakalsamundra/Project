@@ -1,0 +1,6 @@
+// Action types
+export const FETCH_COUNTRIES = 'FETCH_COUNTRIES'
+export const SEARCH_COUNTRIES = 'SEARCH_COUNTRIES'
+export const ADD_COUNTRY = 'ADD_COUNTRY'
+export const REMOVE_COUNTRY = 'REMOVE_COUNTRY'
+export const SORT_COUNTRIES = 'SORT_COUNTRIES'
